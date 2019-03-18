@@ -1,2 +1,2 @@
-./nodes-modules
-./package-lock.json
+nodes-modules/
+package-lock.json
