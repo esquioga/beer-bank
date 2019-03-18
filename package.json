@@ -1,0 +1,28 @@
+{
+  "name": "nodes-beerbank",
+  "version": "0.0.1",
+  "description": "Beer repository for brewdog",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esquioga/beer-bank.git"
+  },
+  "keywords": [
+    "beer",
+    "brewdog",
+    "beer",
+    "bank"
+  ],
+  "author": "João Esquioga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esquioga/beer-bank/issues"
+  },
+  "homepage": "https://github.com/esquioga/beer-bank#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "reactjs": "^1.0.0",
+    "winston": "^3.2.1"
+  }
+}
