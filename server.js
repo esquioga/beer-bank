@@ -7,7 +7,7 @@ console.log(public);
 
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/', function(req, res) {
+app.get('/*', function(req, res) {
 	console.log('Redirect.');
  	res.sendFile(path.join(public, 'index.html'));
 });
